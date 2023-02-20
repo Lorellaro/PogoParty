@@ -1,0 +1,15 @@
+﻿help
+
+checkpoint_count
+
+teleport_to_checkpoint id
+
+teleport_to_checkpoint name
+
+start_race
+
+update_race_data
+
+display_race_data
+
+take_screenshot size
